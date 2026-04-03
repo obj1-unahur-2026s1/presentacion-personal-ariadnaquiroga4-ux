@@ -11,6 +11,7 @@
 ### Otra Información
 - Tengo 24 años
 -  Voy por la mitad del segundo año de la tecnicatura en programacion, despues de recursar programacion estructurada, que me costo mucho aprobarla.
+-  Vivo solo con mi mamá, mi papá fallecio hace poco y mi hermano ya vive solo
 -  No soy muy sociable pero para trabajos en grupo con compañeros copados la puedo llevar muy bien
 -  Tengo un perro de 7 años, Pity, que es como mi hermano-hijo
 -  Hace unos años nadaba, era federada pero termine dejando y ahora solo lo hago para mantenerme bien en lo fisico y mental
