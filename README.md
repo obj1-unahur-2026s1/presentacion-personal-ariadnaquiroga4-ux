@@ -16,5 +16,4 @@
 -  No soy muy sociable pero para trabajos en grupo con compañeros copados la puedo llevar muy bien.
 -  Tengo un perro de 7 años, Pity, que es como mi hermano-hijo.
 -  Hace unos años nadaba, era federada pero termine dejando y ahora solo lo hago para mantenerme bien en lo fisico y mental.
--  Me gusta mucho BTS, los kdramas, el anime. Es en lo que ocupo mas mi tiempo.
--  Soy una persona que muy facil se hace fan de algo y me encanta, no me averguenza ser asi.
+-  Es mi primer contacto con github y wollok, asi que investigare para adaptarme mejor.
